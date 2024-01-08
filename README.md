@@ -140,26 +140,26 @@
  
 </body></html>
 
-div.right {
+#div.right {
 	position: absolute;
 	right: 0;
 	font-size: 11px;
 	
 }
 
-div.colour {
+#div.colour {
 	color: blue;
 }
 
-div.background {
+#div.background {
 	background-color: lightgrey;
 }
 
-div.name {
+#div.name {
 	text-align: center;
 	font-family: times new roman;
 }
-div.address {
+#div.address {
 	text-align: center;
 }
 
