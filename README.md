@@ -1,33 +1,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <link rel="stylesheet" href="./HTMLcv_files/cv.css">
 </head>
-<style>
-right {
-	position: absolute;
-	right: 0;
-	font-size: 11px;	
-}
 
-colour {
-	color: blue;
-}
-
-background {
-	background-color: lightgrey;
-}
-
-name {
-	text-align: center;
-	font-family: times new roman;
-}
-address {
-	text-align: center;
-}
-
-font {
-	font-family: times new roman;
-}
-</style>
 <body>
 <div class="font">
 <div class="name">
