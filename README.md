@@ -2,29 +2,29 @@
 <link rel="stylesheet" href="./HTMLcv_files/cv.css">
 </head>
 <style>
-div.right {
+right {
 	position: absolute;
 	right: 0;
 	font-size: 11px;	
 }
 
-div.colour {
+colour {
 	color: blue;
 }
 
-div.background {
+background {
 	background-color: lightgrey;
 }
 
-div.name {
+name {
 	text-align: center;
 	font-family: times new roman;
 }
-div.address {
+address {
 	text-align: center;
 }
 
-div.font {
+font {
 	font-family: times new roman;
 }
 </style>
