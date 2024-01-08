@@ -133,7 +133,7 @@
       to grow my confidence and motivation in the real world. This also has allowed me to be more productive with work and socially engaging. </li><br>
  <li> Gaming has been a large contributor to my character today, allowing me to have fun in my free time, but also develop my problem-solving skills
       and analytical skills in complex scenarios which I have learnt to transfer into my work. </li>
-<li> Motorsport, Formula one has become a great interest for me as i admire the car technical designs, development and the drivers </li>
+<li> Motorsport, Formula one has become a great interest for me as i admire the car technical designs, development and the drivers. </li>
 </ul>
  </div>
  
