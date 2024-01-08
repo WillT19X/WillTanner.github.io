@@ -1,0 +1,26 @@
+div.right {
+	position: absolute;
+	right: 0;
+	font-size: 11px;
+	
+}
+
+div.colour {
+	color: blue;
+}
+
+div.background {
+	background-color: lightgrey;
+}
+
+div.name {
+	text-align: center;
+	font-family: times new roman;
+}
+div.address {
+	text-align: center;
+}
+
+div.font {
+	font-family: times new roman;
+}
